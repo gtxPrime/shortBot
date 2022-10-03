@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Group ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 Search', url='https://t.me/how_to_open_linksz/9'),
-            InlineKeyboardButton('Main Channel⚡', url='https://t.me/ZCipher')
+            InlineKeyboardButton('📙 Tutorial', url='https://t.me/ZCipher/1293'),
+            InlineKeyboardButton('Main Channel ⚡', url='https://t.me/ZCipher')
             ],[
             InlineKeyboardButton(' OWNER 😬  ', url='https://t.me/gtxPrime')
         ]]
@@ -89,7 +89,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Group ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 Search', url='https://t.me/how_to_open_linksz/9'),
+            InlineKeyboardButton('📙 Tutorial', url='https://t.me/ZCipher/1293'),
             InlineKeyboardButton('Main Channel⚡', url='https://t.me/ZCipher')
             ],[
             InlineKeyboardButton(' OWNER 😬  ', url='https://t.me/gtxPrime')
