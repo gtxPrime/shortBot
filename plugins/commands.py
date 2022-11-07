@@ -47,8 +47,7 @@ async def start(client, message):
             InlineKeyboardButton('📙 Tutorial', url='https://t.me/ZCipher/1293'),
             InlineKeyboardButton('Main Channel ⚡', url='https://t.me/ZCipher')
             ],[
-            InlineKeyboardButton(' OWNER 😬  ', url='https://t.me/gtxPrime'),
-            InlineKeyboardButton('Get Online Play links here', url='https://t.me/MdiskMovies_x')
+            InlineKeyboardButton('Get Online Playing links here 😬', url='https://t.me/MdiskMovies_x')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -93,8 +92,7 @@ async def start(client, message):
             InlineKeyboardButton('📙 Tutorial', url='https://t.me/ZCipher/1293'),
             InlineKeyboardButton('Main Channel⚡', url='https://t.me/ZCipher')
             ],[
-            InlineKeyboardButton(' OWNER 😬  ', url='https://t.me/gtxPrime'),
-            InlineKeyboardButton('Get Online Play links here', url='https://t.me/MdiskMovies_x')
+            InlineKeyboardButton(' Get Online Playing links here 😬  ', url='https://t.me/MdiskMovies_x')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
